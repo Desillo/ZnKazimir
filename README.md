@@ -1,5 +1,5 @@
 # ZnKazimir
-ZnKazimir - программа численного моделирования Zn калибровочной теории поля с присутствием пластин Казимира  
-main - расчёт конфигураций  
-analysis - усреднение конфигураций  
-random - генерация случайных чисел  
+ZnKazimir - program for numerical simulation of Zn gauge field theory with the presence of Casimir plates.
+main - configuration calculation
+analysis - configuration averaging 
+random - random number generation  
